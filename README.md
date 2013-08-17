@@ -1,5 +1,3 @@
-== README
-
 # Ruby on Rails Tutorial: Twitter Clone
 
 This is the sample application which is a twitter clone, from the
